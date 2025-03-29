@@ -36,36 +36,36 @@ A modern and responsive landing page for EasyBank, built with React, TypeScript,
    npm run dev
 
 
-🛠 Built With
-React – JavaScript library for UI development.
+# 🛠 Built With
+- React – JavaScript library for UI development.
 
-TypeScript – Strongly typed JavaScript.
+- TypeScript – Strongly typed JavaScript.
 
-Vite – Fast frontend build tool.
+- Vite – Fast frontend build tool.
 
-Tailwind CSS – Utility-first CSS framework.
+- Tailwind CSS – Utility-first CSS framework.
 
-📌 Deployment
+# 📌 Deployment
 You can deploy this project using:
 
-Vercel
+- Vercel
 
-Netlify
+- Netlify
 
-GitHub Pages
+- GitHub Pages
 
-🤝 Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
+# 🤝 Contributing
+- Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
-🏷️ License
-This project is licensed under the MIT License – see the LICENSE file for details.
+# 🏷️ License
+- This project is licensed under the MIT License – see the LICENSE file for details.
 
-✨ Acknowledgments
-Frontend Mentor – For the project inspiration.
+# ✨ Acknowledgments
+- Frontend Mentor – For the project inspiration.
 
-Vite – For the smooth development experience.
+- Vite – For the smooth development experience.
 
-👨‍💻 Author
+# 👨‍💻 Author
 <Godfred>
 🔗 GitHub: @jayfaculty-design
 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/godfred-entsie-952a69223/)
