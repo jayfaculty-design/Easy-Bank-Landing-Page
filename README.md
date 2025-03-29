@@ -11,7 +11,7 @@ A modern and responsive landing page for EasyBank, built with React, TypeScript,
 
 ## 🔗 Demo
 
-[Live Demo](<your-live-demo-link>) <!-- Replace with your deployed site link -->
+[Live Demo](https://easy-bank-landing-page-lime.vercel.app/) <!-- Replace with your deployed site link -->
 
 ## 🛠 Installation & Setup
 
